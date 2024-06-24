@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="Profile Image" width="150" style="border-radius: 50%;">
+<img src="Banner.png" alt="Profile Image">
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Certainly! Here's a suitable subtitle for a GitHub profile of a cybersecurity student: **"Securing Tomorrow's Digital World"** This subtitle reflects your role as a cybersecurity student and conveys a sense of responsibility and dedication to ensuring the security of digital environments. It suggests a focus on learning, exploring new technologies, and contributing to the field of cybersecurity. It's concise yet impactful, inviting visitors to explore your projects and contributions related to cybersecurity on my GitHub profile. Adjust it as per your specific interests and accomplishments in the field.</h3>
