@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/iAryanbajaj">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Bajaj;Securing+Tomorrow's+Digital+World;Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+Code+Breaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Bajaj;Securing+Tomorrow's+Digital+World;Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+Code+Breaker;6%2B+Languages+%7C+15%2B+Tools" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -36,19 +36,19 @@
 |             Student        |
 |  Focus    : Cryptography,  |
 |             Ethical Hacking|
-|  motto    : "Break things  |
+|  Motto    : "Break things  |
 |             to build them  |
 |             stronger"      |
 +---------------------------+
 
 > cat interests.txt
-[-] Reverse Engineering
-[-] Network Security
-[-] Malware Analysis
-[-] Web Security
-[-] Penetration Testing
-[-] Cryptography
-[-] CTF Challenges
+[•] Reverse Engineering
+[•] Network Security
+[•] Malware Analysis
+[•] Web Security
+[•] Penetration Testing
+[•] Cryptography
+[•] CTF Challenges
 ```
 
 </td>
@@ -59,7 +59,7 @@
 
 <br/>
 
-## 🎯 What I'm Doing
+## 🎯 What I Do
 
 <table align="center" width="100%">
 <tr>
@@ -200,6 +200,47 @@ Advanced image encryption tool using pixel manipulation and XOR-based cryptograp
 
 <br/>
 
+## 📍 My Journey
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="left" valign="top">
+
+### 💼 Experience
+
+<img src="https://img.shields.io/badge/Cybersecurity_Intern-Prodigy_Infotech-00FF88?style=flat-square&logo=briefcase&logoColor=white&labelColor=0D1525" />
+<br/><br/>
+Worked on cryptography projects including Caesar Cipher implementation and image encryption tools using Python. Gained hands-on experience with encryption algorithms and security tool development.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CTF_Participant-Various_Platforms-00E5FF?style=flat-square&logo=flag&logoColor=white&labelColor=0D1525" />
+<br/><br/>
+Actively participating in Capture The Flag competitions to enhance practical security skills and problem-solving abilities across multiple challenge categories.
+
+</td>
+<td width="50%" align="left" valign="top">
+
+### 🎓 Education
+
+<img src="https://img.shields.io/badge/B.Tech-B.E.-9333EA?style=flat-square&logo=graduationcap&logoColor=white&labelColor=1A1A2E" />
+<br/><br/>
+Pursuing undergraduate studies in Computer Science with a focus on cybersecurity, networking, and software development. Building a strong academic foundation alongside practical security skills.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Self_Learner-Online_Platforms-FF6B6B?style=flat-square&logo=book-open&logoColor=white&labelColor=1A1A2E" />
+<br/><br/>
+Continuously learning through platforms like TryHackMe, HackTheBox, and working towards cybersecurity certifications to stay current with industry standards.
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -210,6 +251,10 @@ Advanced image encryption tool using pixel manipulation and XOR-based cryptograp
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aryan-bajaj-aaa006306/">
   <img src="https://img.shields.io/badge/LinkedIn-Aryan_Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aryanbajaj@email.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
