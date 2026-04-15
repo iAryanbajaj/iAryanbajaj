@@ -1,282 +1,248 @@
-<h1 align="center">
-  <a href="https://github.com/iAryanbajaj">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Bajaj;Securing+Tomorrow's+Digital+World;Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+Code+Breaker;6%2B+Languages+%7C+15%2B+Tools" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-00FF88?style=for-the-badge&logo=shield-halved&logoColor=white&labelColor=0D1525" />
-  <img src="https://img.shields.io/badge/Ethical-Hacker-00E5FF?style=for-the-badge&logo=bug&logoColor=white&labelColor=0D1525" />
-  <img src="https://img.shields.io/badge/CTF-Player-FF6B6B?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1525" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iAryanbajaj&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS&labelColor=0D1525" />
-  <img src="https://img.shields.io/github/followers/iAryanbajaj?style=for-the-badge&color=00E5FF&label=FOLLOWERS&labelColor=0D1525" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1525&height=150&section=header&text=0&fontSize=42&fontColor=00FF88&animation=twinkling&fontAlignY=32&desc=Building%20Security%20Tools%20%26%20Breaking%20Code&descSize=16&descAlignY=52" />
-
----
-
-<br/>
-
-## 🧑‍💻 About Me
-
-<table align="center">
-<tr>
-<td>
-
-```
-> whoami
-
-+---------------------------+
-|  Name     : Aryan Bajaj   |
-|  Role     : Cybersecurity  |
-|             Student        |
-|  Focus    : Cryptography,  |
-|             Ethical Hacking|
-|  Motto    : "Break things  |
-|             to build them  |
-|             stronger"      |
-+---------------------------+
-
-> cat interests.txt
-[•] Reverse Engineering
-[•] Network Security
-[•] Malware Analysis
-[•] Web Security
-[•] Penetration Testing
-[•] Cryptography
-[•] CTF Challenges
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## 🎯 What I Do
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 🔓 Cryptography
-Implementing classical and modern encryption algorithms. From Caesar ciphers to advanced encryption standards, exploring how data protection works at its core.
-
-</td>
-<td width="50%" align="center">
-
-### 🛡️ Ethical Hacking
-Learning penetration testing methodologies and vulnerability assessment. Understanding attack vectors to build stronger defenses.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🛠️ Security Tools
-Building custom security tools using Python, C, and other languages. Creating solutions that help identify and mitigate security threats.
-
-</td>
-<td width="50%" align="center">
-
-### 🚩 CTF Challenges
-Competing in Capture The Flag competitions to sharpen offensive security skills in real-world scenarios under time pressure.
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+```
+ ▄▀▀█▄   ▄▀▀▄▀▀▀▄  ▄▀▀▄ ▀▀▄  ▄▀▀█▄   ▄▀▀▄ ▀▄ 
+▐ ▄▀ ▀▄ █   █   █ █   ▀▄ ▄▀ ▐ ▄▀ ▀▄ █  █ █ █ 
+  █▄▄▄█ ▐  █▀▀▀▀  ▐     █     █▄▄▄█ ▐  █  ▀█ 
+ ▄▀   █    █            █     ▄▀   █   █   █  
+█   ▄▀   ▄▀           ▄▀     █   ▄▀ ▄▀   █   
+▐   ▐   █             █      ▐   ▐  █    ▐   
+    ▐   ▐             ▐          ▐  ▐        
+```
 
-### 🔐 Caesar Cipher
-<i>Prodigy Infotech Internship</i>
-<br/><br/>
-A classical cryptographic tool implementing the Caesar cipher algorithm with real-time encryption/decryption and customizable shift values.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Cryptography-00FF88?style=flat-square&logo=lock&logoColor=white&labelColor=0D1525" />
-<br/><br/>
-<a href="https://github.com/iAryanbajaj/PRODIGY_CS_Task1.git">
-  <img src="https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=github&logoColor=0D1525" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=800&lines=%24+whoami+%3E+Aryan+Bajaj;%24+cat+role.txt+%3E+Cybersecurity+Student;%24+cat+mission.txt+%3E+Break.+Analyze.+Secure.;%24+cat+status.txt+%3E+Hacking+the+planet+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
-</td>
-<td width="50%" align="center">
+<br/>
 
-### 🖼️ Image Encryption
-<i>Prodigy Infotech Internship</i>
-<br/><br/>
-Advanced image encryption tool using pixel manipulation and XOR-based cryptographic algorithms to protect visual content from unauthorized access.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Steganography-00E5FF?style=flat-square&logo=image&logoColor=white&labelColor=0D1525" />
-<br/><br/>
-<a href="https://github.com/iAryanbajaj/PRODIGY_CS_Task2.git">
-  <img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=0D1525" />
-</a>
-
-</td>
-</tr>
-</table>
+[![Visits](https://komarev.com/ghpvc/?username=iAryanbajaj&style=flat-square&color=00FF88&label=INTRUDERS+DETECTED)](https://github.com/iAryanbajaj)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/iAryanbajaj?style=flat-square&color=00E5FF&label=ALLIES)](https://github.com/iAryanbajaj?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/iAryanbajaj?style=flat-square&color=FFD700&label=REPUTATION)](https://github.com/iAryanbajaj)
 
 </div>
 
 ---
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧰 Tech Arsenal
+## `[*]` SYSTEM BOOT INITIATED...
 
-<table align="center">
-<tr>
-<td align="center" width="100">
+```bash
+┌──(aryan㉿terminal)-[~]
+└─$ sudo cat /etc/profile/aryan_bajaj.conf
 
-### Languages
-<br/><br/>
+╔════════════════════════════════════════════════════════╗
+║                   IDENTITY MANIFEST                    ║
+╠════════════════════════════════════════════════════════╣
+║  NAME      ──  Aryan Bajaj                            ║
+║  CLASS     ──  Cybersecurity Student & Ethical Hacker ║
+║  LOCATION  ──  India 🇮🇳                               ║
+║  MISSION   ──  Securing tomorrow's digital world      ║
+║  MOTTO     ──  "Break it to build it stronger"        ║
+╠════════════════════════════════════════════════════════╣
+║  THREAT LEVEL  ──  [████████████████] MAXIMUM         ║
+║  SKILL TREE    ──  [██████████░░░░░░] EXPANDING...    ║
+║  CTF RANK      ──  [████████████░░░░] RISING...       ║
+╚════════════════════════════════════════════════════════╝
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1A1A2E" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-
-### Tools & Platforms
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1A1A2E" />
-
-</td>
-</tr>
-</table>
+[✓] Curiosity module............LOADED
+[✓] Caffeine dependency..........CRITICAL
+[✓] Learning algorithm............RUNNING
+[✓] Passion for security..........OVERFLOW
+[!] Sleep schedule..................NOT FOUND
+```
 
 ---
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## `[*]` DOMAIN EXPERTISE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAryanbajaj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1525&title_color=00FF88&text_color=C8D6E5&icon_color=00FF88&ring_color=00FF88" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAryanbajaj&layout=compact&theme=radical&hide_border=true&bg_color=0D1525&title_color=00FF88&text_color=C8D6E5&icon_color=00FF88" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAryanbajaj&theme=radical&hide_border=true&background=0D1525&stroke=1A2744&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C8D6E5&currStreakNum=00FF88&dates=C8D6E5" />
-</p>
+|  DOMAIN  |  STATUS  |  PROFICIENCY  |
+|:--------:|:--------:|:-------------:|
+| 🔐 Cryptography | `ACTIVE` | `████████░░` 80% |
+| 🛡️ Ethical Hacking | `ACTIVE` | `███████░░░` 70% |
+| 🕸️ Web Security | `LEARNING` | `██████░░░░` 60% |
+| 🔬 Reverse Engineering | `LEARNING` | `█████░░░░░` 50% |
+| 🦠 Malware Analysis | `STUDYING` | `████░░░░░░` 40% |
+| 🚩 CTF Challenges | `COMPETING` | `███████░░░` 70% |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iAryanbajaj&bg_color=0D1525&color=00FF88&line=00E5FF&point=00FF88&area=true&hide_border=true&radius=8" width="100%" />
-</p>
-
----
-
-<br/>
-
-## 📍 My Journey
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="left" valign="top">
-
-### 💼 Experience
-
-<img src="https://img.shields.io/badge/Cybersecurity_Intern-Prodigy_Infotech-00FF88?style=flat-square&logo=briefcase&logoColor=white&labelColor=0D1525" />
-<br/><br/>
-Worked on cryptography projects including Caesar Cipher implementation and image encryption tools using Python. Gained hands-on experience with encryption algorithms and security tool development.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CTF_Participant-Various_Platforms-00E5FF?style=flat-square&logo=flag&logoColor=white&labelColor=0D1525" />
-<br/><br/>
-Actively participating in Capture The Flag competitions to enhance practical security skills and problem-solving abilities across multiple challenge categories.
-
-</td>
-<td width="50%" align="left" valign="top">
-
-### 🎓 Education
-
-<img src="https://img.shields.io/badge/B.Tech-B.E.-9333EA?style=flat-square&logo=graduationcap&logoColor=white&labelColor=1A1A2E" />
-<br/><br/>
-Pursuing undergraduate studies in Computer Science with a focus on cybersecurity, networking, and software development. Building a strong academic foundation alongside practical security skills.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Self_Learner-Online_Platforms-FF6B6B?style=flat-square&logo=book-open&logoColor=white&labelColor=1A1A2E" />
-<br/><br/>
-Continuously learning through platforms like TryHackMe, HackTheBox, and working towards cybersecurity certifications to stay current with industry standards.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect With Me
+## `[*]` OPERATION LOG — FEATURED PROJECTS
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/iAryanbajaj">
-  <img src="https://img.shields.io/badge/GitHub-iAryanbajaj-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aryan-bajaj-aaa006306/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aryan_Bajaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:aryanbajaj@email.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+### ▶ OPERATION: CIPHER STORM
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT   ──  Caesar Cipher Toolkit                        ║
+║  CLIENT    ──  Prodigy Infotech Internship                  ║
+║  LANGUAGE  ──  Python 🐍                                    ║
+║  CATEGORY  ──  Classical Cryptography                       ║
+║                                                              ║
+║  OBJECTIVE: Implement a Caesar cipher with real-time        ║
+║  encryption & decryption, customizable shift values,        ║
+║  and brute-force attack simulation for analysis.            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+[![View Project](https://img.shields.io/badge/◄_ACCESS_FILES-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iAryanbajaj/PRODIGY_CS_Task1.git)
 
 ---
 
+### ▶ OPERATION: GHOST PIXEL
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT   ──  Image Encryption Engine                      ║
+║  CLIENT    ──  Prodigy Infotech Internship                  ║
+║  LANGUAGE  ──  Python 🐍                                    ║
+║  CATEGORY  ──  Visual Cryptography / Steganography          ║
+║                                                              ║
+║  OBJECTIVE: Encrypt images at pixel-level using XOR-based   ║
+║  cryptographic algorithms. Protect visual data from         ║
+║  unauthorized access and reverse-engineer defenses.         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+[![View Project](https://img.shields.io/badge/◄_ACCESS_FILES-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iAryanbajaj/PRODIGY_CS_Task2.git)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `[*]` TECH ARSENAL
+
+<div align="center">
+
+### ⚔️ WEAPONS OF CHOICE — Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
+
+### 🛠️ UTILITIES & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,mysql,firebase&theme=dark" />
+
+### 🎯 TRAINING GROUNDS
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/CTFtime-FFD700?style=for-the-badge&logo=target&logoColor=black" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `[*]` INTELLIGENCE REPORT — GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iAryanbajaj&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&text_color=CCCCCC&icon_color=00FF88&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAryanbajaj&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&text_color=CCCCCC&icon_color=00FF88" height="170"/>
+
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iAryanbajaj&theme=dark&hide_border=true&background=0D0D0D&stroke=00FF8820&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=888888&currStreakNum=FFFFFF&dates=888888&sideNums=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iAryanbajaj&bg_color=0D0D0D&color=00FF88&line=00FF88&point=00E5FF&area=true&hide_border=true&area_color=00FF8820" width="95%" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `[*]` MISSION HISTORY
 
 <div align="center">
 
 ```
-  ██████╗ ██╗   ██╗ ██████╗ ██████╗███████╗███████╗███████╗
-  ██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝
-  ██║   ██║██║   ██║██║     ██║     █████╗  ███████╗███████╗
-  ██║▄▄ ██║██║   ██║██║     ██║     ██╔══╝  ╚════██║╚════██║
-  ╚██████╔╝╚██████╔╝╚██████╗╚██████╗███████╗███████║███████║
-   ╚══▀▀═╝  ╚═════╝  ╚═════╝ ╚═════╝╚══════╝╚══════╝╚══════╝
+TIMELINE ──────────────────────────────────────────────►
+                │                        │
+           [INTERNSHIP]            [ONGOING]
+       Prodigy Infotech          B.Tech C.S.E
+       ─────────────           ──────────────────
+       • Caesar Cipher         • Network Security
+       • Image Encrypt         • Operating Systems
+       • Python Tools          • Data Structures
+       • Security Dev          • Cybersecurity Focus
+                │                        │
+           [ACTIVE]                [GRINDING]
+        CTF Competitions         Self Learning
+        ────────────────         ─────────────
+        • Web Challenges         • TryHackMe 🔴
+        • Crypto CTFs            • HackTheBox 🟢
+        • Misc & Forensics       • Certs → Soon™
 ```
-
-<i>Thanks for visiting my profile! Let's build something secure together.</i>
-<i>Feel free to ⭐ my repos and connect with me!</i>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1525&height=120&section=footer" />
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `[*]` ESTABLISH SECURE CONNECTION
+
+<div align="center">
+
+```
+HANDSHAKE PROTOCOL: Aryan_Bajaj_v1.0
+STATUS: ACCEPTING CONNECTIONS...
+```
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub──iAryanbajaj-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/iAryanbajaj)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn──Connect-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/aryan-bajaj-aaa006306/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email──Encrypt_&_Send-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:aryanbajaj@email.com)
+
+<br/>
+
+```
+> ping aryan_bajaj --purpose "collaboration | learning | ctf-team | hire"
+PING successful. Response time: [FAST]
+Open to: Internships | Open Source | CTF Teams | Security Research
+```
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```
+ ██████╗  ██████╗  ██████╗ ██████╗      ██████╗ ██╗   ██╗███████╗
+██╔════╝ ██╔═══██╗██╔═══██╗██╔══██╗    ██╔═══██╗██║   ██║██╔════╝
+██║  ███╗██║   ██║██║   ██║██║  ██║    ██║   ██║██║   ██║█████╗  
+██║   ██║██║   ██║██║   ██║██║  ██║    ██║   ██║██║   ██║██╔══╝  
+╚██████╔╝╚██████╔╝╚██████╔╝██████╔╝    ╚██████╔╝╚██████╔╝███████╗
+ ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝      ╚═════╝  ╚═════╝ ╚══════╝
+```
+
+<br/>
+
+**`[ Thanks for visiting | Don't forget to ⭐ repos | Stay curious | Stay secure ]`**
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
