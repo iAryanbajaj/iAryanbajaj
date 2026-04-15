@@ -46,7 +46,7 @@
 ║                    // IDENTITY MANIFEST //                   ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  NAME        ──  Aryan Bajaj                                 ║
-║  DEGREE      ──  BSc (Hons) Cyber Security                   ║
+║  DEGREE      ──  BSc  Cyber Security                   ║
 ║  ROLE        ──  Ethical Hacker | Security Researcher        ║
 ║  LOCATION    ──  India 🇮🇳                                    ║
 ║  FOCUS       ──  Cryptography · Pen Testing · CTF            ║
